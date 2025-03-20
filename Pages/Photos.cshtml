@@ -1,0 +1,76 @@
+@page
+@model PhotosModel
+@{
+    ViewData["Title"] = "Ajouter des Photos";
+}
+
+<body class="bg-light">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card shadow-sm">
+                    <div class="card-header text-center">
+                        <h1 class="mb-0">Ajouter une Photo</h1>
+                    </div>
+                    <div class="card-body">
+                        <form method="post" enctype="multipart/form-data">
+                            <div class="mb-3">
+                                <label for="concoursSelect" class="form-label">Sélectionnez un Concours :</label>
+                                <select id="concoursSelect" name="SelectedConcoursId" class="form-control" required>
+                                    <option value="">-- Choisissez un concours --</option>
+                                    @foreach (var concours in Model.Concours)
+                                    {
+                                        <option value="@concours["id"]">@concours["name"]</option>
+                                    }
+                                </select>
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="epreuveSelect" class="form-label">Sélectionnez une Épreuve :</label>
+                                <select id="epreuveSelect" name="SelectedEpreuveId" class="form-control" required>
+                                    <option value="">-- Sélectionnez d'abord un concours --</option>
+                                </select>
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="photos" class="form-label">Ajouter des Photos :</label>
+                                <input type="file" id="photos" name="Photos" class="form-control" multiple required />
+                            </div>
+
+                            <button type="submit" class="btn btn-primary w-100">Ajouter les Photos</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("concoursSelect").addEventListener("change", function () {
+            let concoursId = this.value;
+            let epreuveSelect = document.getElementById("epreuveSelect");
+
+            epreuveSelect.innerHTML = '<option value="">-- Chargement... --</option>';
+
+            fetch(`/Photos?handler=Epreuves&concoursId=${concoursId}`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Erreur lors du chargement des épreuves");
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    console.log("Données reçues :", data);
+                    epreuveSelect.innerHTML = '<option value="">-- Sélectionnez une épreuve --</option>';
+                    data.forEach(epreuve => {
+                        epreuveSelect.innerHTML += `<option value="${epreuve.id}">${epreuve.name}</option>`;
+                    });
+                })
+                .catch(error => {
+                    console.error("Erreur :", error);
+                    epreuveSelect.innerHTML = '<option value="">⚠️ Erreur de chargement</option>';
+                });
+        });
+
+    </script>
+</body>

@@ -1,0 +1,45 @@
+@page
+@model AjouterEpreuveModel
+@{
+    ViewData["Title"] = "Ajouter une Épreuve";
+}
+
+<body class="bg-light">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card shadow-sm">
+                    <div class="card-header text-center">
+                        <h1 class="mb-0">Ajouter une Épreuve</h1>
+                    </div>
+                    <div class="card-body">
+                        <form method="post" enctype="multipart/form-data">
+                            <div class="mb-3">
+                                <label for="concoursSelect" class="form-label">Sélectionnez un Concours :</label>
+                                <select id="concoursSelect" name="SelectedConcoursId" class="form-control" required>
+                                    <option value="">-- Choisissez un concours --</option>
+                                    @foreach (var concours in Model.Concours)
+                                    {
+                                        <option value="@concours["id"]">@concours["name"]</option>
+                                    }
+                                </select>
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="nomEpreuve" class="form-label">Nom de l'Épreuve :</label>
+                                <input type="text" id="nomEpreuve" name="NomEpreuve" class="form-control" required />
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="imageEpreuve" class="form-label">Image de l'Épreuve (optionnel) :</label>
+                                <input type="file" id="imageEpreuve" name="Photo" class="form-control" />
+                            </div>
+
+                            <button type="submit" class="btn btn-primary w-100">Ajouter l'Épreuve</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/obj/Debug/net8.0/scopedcss/projectbundle/AppModifJSON_Web.bundle.scp.css",
+      "PackagePath": "staticwebassets/AppModifJSON_Web.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/212394027_4319795291397862_7174576726347616994_n.jpg",
+      "PackagePath": "staticwebassets/Img/212394027_4319795291397862_7174576726347616994_n.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/37764512_2256750444544803_2803387091822575616_n.jpg",
+      "PackagePath": "staticwebassets/Img/37764512_2256750444544803_2803387091822575616_n.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/464302864_8289079294524092_5062002883957664729_n.jpg",
+      "PackagePath": "staticwebassets/Img/464302864_8289079294524092_5062002883957664729_n.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/464702658_27407845995526597_6089822130678859834_n.jpg",
+      "PackagePath": "staticwebassets/Img/464702658_27407845995526597_6089822130678859834_n.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/468547677_10162209055249732_6687285236072951572_n.jpg",
+      "PackagePath": "staticwebassets/Img/468547677_10162209055249732_6687285236072951572_n.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/53008533_2417568838462962_6103804416366739456_n.jpg",
+      "PackagePath": "staticwebassets/Img/53008533_2417568838462962_6103804416366739456_n.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1766.HEIC",
+      "PackagePath": "staticwebassets/Img/IMG_1766.HEIC"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1767.HEIC",
+      "PackagePath": "staticwebassets/Img/IMG_1767.HEIC"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1768.HEIC",
+      "PackagePath": "staticwebassets/Img/IMG_1768.HEIC"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1823.jpg",
+      "PackagePath": "staticwebassets/Img/IMG_1823.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1824.jpg",
+      "PackagePath": "staticwebassets/Img/IMG_1824.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1825.jpg",
+      "PackagePath": "staticwebassets/Img/IMG_1825.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1835.HEIC",
+      "PackagePath": "staticwebassets/Img/IMG_1835.HEIC"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/Japan.jpg",
+      "PackagePath": "staticwebassets/Img/Japan.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/LilleHE.png",
+      "PackagePath": "staticwebassets/Img/LilleHE.png"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/Paris.png",
+      "PackagePath": "staticwebassets/Img/Paris.png"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/Test.jpg",
+      "PackagePath": "staticwebassets/Img/Test.jpg"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/folder-icon.png",
+      "PackagePath": "staticwebassets/Img/folder-icon.png"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AppModifJSON_Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.AppModifJSON_Web.props",
+      "PackagePath": "build\\AppModifJSON_Web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AppModifJSON_Web.props",
+      "PackagePath": "buildMultiTargeting\\AppModifJSON_Web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AppModifJSON_Web.props",
+      "PackagePath": "buildTransitive\\AppModifJSON_Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

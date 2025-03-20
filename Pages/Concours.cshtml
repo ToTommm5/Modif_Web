@@ -1,0 +1,58 @@
+@page
+@model ConcoursModel
+@{
+    ViewData["Title"] = "Ajouter un Concours";
+}
+
+
+
+
+<body class="bg-light">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card shadow-sm">
+                    <div class="card-header text-center">
+                        <h1 class="mb-0">Ajouter un Concours</h1>
+                    </div>
+                    <div class="card-body">
+                        <form method="post" enctype="multipart/form-data">
+                            <div class="mb-3">
+                                <label for="nomConcours" class="form-label">Nom du Concours :</label>
+                                <input type="text" id="nomConcours" name="nomConcours" class="form-control" required />
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="imageUrl" class="form-label">Image du Concours :</label>
+                                <input type="file" id="imageUrl" name="photo" class="form-control" required />
+                            </div>
+
+                            <button type="submit" class="btn btn-primary w-100">Ajouter le Concours</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr class="my-5">
+        <h3 class="text-center mt-5">Concours Existants</h3>
+
+        <div class="row mt-4">
+@foreach (var concours in Model.Concours)
+{
+                <div class="col-md-4">
+                    <div class="card shadow-sm mb-4" >
+                        <img src="@concours["img_url"]" class="card-img-top" alt="Image du concours" 
+                        style="width: 100%; height: 200px; object-fit: contain;">
+                            <div class=" card-body text-center">
+                        <h5 class="card-title">@concours["name"]</h5>
+
+                        <form method="post" class="mt-2" asp-page-handler="Delete" asp-route-id="@concours["id"]">
+                            <button type="submit" class="btn btn-danger w-100">❌ Supprimer</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            }
+        </div>
+        </div>
+    </body>
