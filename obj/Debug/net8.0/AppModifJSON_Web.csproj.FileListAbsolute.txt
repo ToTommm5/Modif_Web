@@ -55,3 +55,4 @@
 /Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
 /Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
 /Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/obj/Debug/net8.0/AppModifJSON_Web.sourcelink.json

@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets/Img/53008533_2417568838462962_6103804416366739456_n.jpg"
     },
     {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/CV Moneret Tom 2025 .pdf",
+      "PackagePath": "staticwebassets/Img/CV Moneret Tom 2025 .pdf"
+    },
+    {
       "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1766.HEIC",
       "PackagePath": "staticwebassets/Img/IMG_1766.HEIC"
     },
@@ -47,10 +51,6 @@
     {
       "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1824.jpg",
       "PackagePath": "staticwebassets/Img/IMG_1824.jpg"
-    },
-    {
-      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1825.jpg",
-      "PackagePath": "staticwebassets/Img/IMG_1825.jpg"
     },
     {
       "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1835.HEIC",
@@ -75,6 +75,10 @@
     {
       "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/folder-icon.png",
       "PackagePath": "staticwebassets/Img/folder-icon.png"
+    },
+    {
+      "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/pokmon-versi-4e2624d5781fb.jpg",
+      "PackagePath": "staticwebassets/Img/pokmon-versi-4e2624d5781fb.jpg"
     },
     {
       "Id": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/css/site.css",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LLDZ68hemPa5g2qOPyXa0I10LH62A7ybBm65/WHH3Ns=",
+  "Hash": "bD+eeZU9P1eStO403UYwM8yUbkNa/v35bpRzgTwzX50=",
   "Source": "AppModifJSON_Web",
   "BasePath": "_content/AppModifJSON_Web",
   "Mode": "Default",
@@ -207,6 +207,25 @@
       "OriginalItemSpec": "wwwroot/Img/53008533_2417568838462962_6103804416366739456_n.jpg"
     },
     {
+      "Identity": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/CV Moneret Tom 2025 .pdf",
+      "SourceId": "AppModifJSON_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/",
+      "BasePath": "_content/AppModifJSON_Web",
+      "RelativePath": "Img/CV Moneret Tom 2025 .pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Img/CV Moneret Tom 2025 .pdf"
+    },
+    {
       "Identity": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/folder-icon.png",
       "SourceId": "AppModifJSON_Web",
       "SourceType": "Discovered",
@@ -321,25 +340,6 @@
       "OriginalItemSpec": "wwwroot/Img/IMG_1824.jpg"
     },
     {
-      "Identity": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1825.jpg",
-      "SourceId": "AppModifJSON_Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/",
-      "BasePath": "_content/AppModifJSON_Web",
-      "RelativePath": "Img/IMG_1825.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Img/IMG_1825.jpg"
-    },
-    {
       "Identity": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/IMG_1835.HEIC",
       "SourceId": "AppModifJSON_Web",
       "SourceType": "Discovered",
@@ -414,6 +414,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Img/Paris.png"
+    },
+    {
+      "Identity": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/pokmon-versi-4e2624d5781fb.jpg",
+      "SourceId": "AppModifJSON_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/",
+      "BasePath": "_content/AppModifJSON_Web",
+      "RelativePath": "Img/pokmon-versi-4e2624d5781fb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Img/pokmon-versi-4e2624d5781fb.jpg"
     },
     {
       "Identity": "/Users/tom/Desktop/VSCode/App Modif JSON/App_Modif_JSON/AppModifJSON_Web/wwwroot/Img/Test.jpg",

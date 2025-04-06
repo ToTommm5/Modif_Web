@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppModifJSON_Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d76e4950d186064b443e7af50565d01b18f9aa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppModifJSON_Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppModifJSON_Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
