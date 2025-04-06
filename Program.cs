@@ -11,13 +11,14 @@ builder.Services.AddControllers();  // Cette ligne est nécessaire pour les API
 // 🔥 AJOUT DE CORS 🔥
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAngular",
+    options.AddPolicy("AllowAngularAndGithub",
         policy =>
         {
-            policy.WithOrigins("http://localhost:4200") // Autorise Angular
+            policy.WithOrigins("http://localhost:4200", "https://totommm5.github.io") // Autorise Angular
                   .AllowAnyMethod()
                   .AllowAnyHeader();
         });
+
 });
 
 var app = builder.Build();
@@ -40,7 +41,7 @@ app.UseStaticFiles(new StaticFileOptions
 app.UseRouting();
 
 // 🔥 ACTIVE CORS 🔥
-app.UseCors("AllowAngular");
+app.UseCors("AllowAngularAndGithub");
 
 app.UseAuthorization();
 
